@@ -1,11 +1,11 @@
 ## Available Scripts
 
+Pull or clone the repository 
+
 In the project directory, you can run:
 
-Pull or clone the repository and then Run
-
 ### `npm install`
-It will install all necessary module then Run
+It will install all necessary module then Run:
 
 ### `npm start`
 
