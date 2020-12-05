@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
-import Logo from '../../assets/logo.svg'
 import Profile from '../../assets/profile.svg'
 
 
@@ -28,7 +27,7 @@ class Header extends Component {
                 <Toolbar>
                     <img src={Logo} alt="Logo"/>
                     <Typography edge="start" variant="h6" className={this.state.title} style={{color: '#271D18', fontWeight : '600'}}>
-                        Intugine
+                        Dashboard
                     </Typography>
                     <div style={{float:"right", margin:"auto", marginRight:"1%"}}>
 
